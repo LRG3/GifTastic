@@ -66,7 +66,7 @@ $( document ).ready(function(){
 
 		var publicKey = "dc6zaTOxFJmzC"; 
 		var limit = "10"; 
-		var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + animal + "&limit=" + limit + "&api_key=" + publicKey;
+		var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + animal + "&limit=" + limit + "&api_key=" + publicKey;
 	
 
 		
